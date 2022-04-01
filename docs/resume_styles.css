@@ -1,12 +1,16 @@
-* {
-    box-sizing: border-box;
-  }
-body {
+
+.page-container {
+    margin: 5%;
+    margin-top: 0;
     font-family: "helvetica neue";
     font-size: 10pt;
     font-weight: 300;
-    margin: 5%;
 }
+
+.page-container h1 {
+    font-weight: bolder;
+}
+
 .header,
 .footer,
 h2,
